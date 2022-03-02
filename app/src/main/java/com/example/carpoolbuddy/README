@@ -1,0 +1,22 @@
+# CARPOOL BUDDY
+
+## Student Name: Myriam Lynch
+## Class: IB Computer Science HL
+### Updated on February 3, 2022
+
+# Problem Set 3
+
+## Description
+This program will communicate with the Server to allow the client to perform the following actions
+- Allow users to sign up
+- Allow users to sign in
+- Let users add their vehicle to the database
+- Let users book a ride that is open
+- Let users open or close a vehicle they own
+- Create an incentive system for users to want to use renewable energy vehicles (CREATIVE)
+
+
+# Design Document
+The link to the design document describing the carpool app
+section of the app is linked below.
+https://docs.google.com/document/d/18POMN5VGN7Pdjh86Aqz28Ynz9Qy4c6fqKo2j8bc2PaQ/edit?usp=sharing
